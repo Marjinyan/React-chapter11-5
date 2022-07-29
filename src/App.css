@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+}
+
+.form{
+  width: 200px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.form div {
+  margin-bottom: 20px;
+}
+
+.form input {
+  display: block;
+  width: 100%;
+}
+
+.form .error {
+  color: red;
+  font-weight: bold;
+}
